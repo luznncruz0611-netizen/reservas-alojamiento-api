@@ -66,7 +66,7 @@ Estados válidos: `pendiente`, `confirmada`, `cancelada`, `completada`.
 ## Ejecutar en local
 
 ```bash
-git clone https://github.com/<tu-usuario>/<tu-repo>.git
+git clone https://github.com/<luznncruz0611-netizen>/<tu-repo>.git
 cd <tu-repo>
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
