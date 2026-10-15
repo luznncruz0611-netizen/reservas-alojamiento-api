@@ -1,0 +1,27 @@
+# Variables de entorno (NUNCA subir credenciales)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Vercel
+.vercel/
+
+# IDE / Sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
