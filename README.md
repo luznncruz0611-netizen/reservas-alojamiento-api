@@ -66,8 +66,8 @@ Estados válidos: `pendiente`, `confirmada`, `cancelada`, `completada`.
 ## Ejecutar en local
 
 ```bash
-git clone https://github.com/<tu-usuario>/<tu-repo>.git
-cd <tu-repo>
+git clone https://github.com/luznncruz0611-netizen/reservas-alojamiento-api.git
+cd reservas-alojamiento-api 
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements-dev.txt
